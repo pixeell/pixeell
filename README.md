@@ -13,7 +13,7 @@ i stole this readme thing from my friend because i don't think he will mind, i g
     ・
     <a href="https://www.youtube.com/channel/UCmCmez_tgRxcdmMJ_5Lrgxg">youtube</a>
     ・
-    <a href="https://github.com/pixeleee">github</a>
+    <a href="https://github.com/pixeell">github</a>
 </p>
 
 <p align="center">  
