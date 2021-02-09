@@ -1,6 +1,6 @@
 ------
 <p align="center">  
-  <img src="https://media.giphy.com/media/tsX3YMWYzDPjAARfeg/source.gif" alt="Avatar">
+  <img src="https://blog.archive.org/wp-content/uploads/2016/10/underconstruction.gif" alt="Avatar">
 </p>
 <p align="center">
     pixel#0005
