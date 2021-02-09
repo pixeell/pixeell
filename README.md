@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/tsX3YMWYzDPjAARfeg/source.gif" alt="Avatar">
 </p>
 <p align="center">
-    pixel#3163
+    pixel#0005
 <p align="center">
-i stole this readme thing from my friend because i don't think he will mind, i guess we'll have to know when he wakes up!
+gamer gaming game gamer game r gamer
 <p align="center">
 </p>
 <p align="center">
