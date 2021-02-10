@@ -9,7 +9,7 @@ gamer gaming game gamer game r gamer
 <p align="center">
 </p>
 <p align="center">
-<a href="https://discord.com/users/338739156920303617">discord</a>
+<a href="https://discord.me/computers">computers</a>
     ・
     <a href="https://www.youtube.com/channel/UCmCmez_tgRxcdmMJ_5Lrgxg">youtube</a>
     ・
